@@ -30,3 +30,7 @@
 
 # Debug files
 *.dSYM/
+
+# Compiled binaries
+sbfi
+sbfc
